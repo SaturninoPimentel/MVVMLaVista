@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SATUR</Machine>
+    <WindowsUser>JoseSaturnino</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ada51a6c-d253-4860-9825-c9d92b3cdfca</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>FBA36C228A47B46F57F3A2A4855B6CDAF2977F03DB9EC13E9C7EC14094C36918</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ada51a6c-d253-4860-9825-c9d92b3cdfca_1.0.0.0_neutral__yps17xarsp2at</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ada51a6c-d253-4860-9825-c9d92b3cdfca_yps17xarsp2at!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ada51a6c-d253-4860-9825-c9d92b3cdfca</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=test</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-26T02:32:27.994</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\DemoView.exe">
+      <PackagePath>DemoView.exe</PackagePath>
+      <Modified>2015-05-26T08:11:53.352</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-12-10T23:08:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-12-10T23:08:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T13:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-26T02:32:26.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\Behaviors.xbf">
+      <PackagePath>Behaviors.xbf</PackagePath>
+      <Modified>2015-05-26T08:11:53.086</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-26T07:47:42.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\Resources.xbf">
+      <PackagePath>Resources.xbf</PackagePath>
+      <Modified>2015-05-26T07:24:01.773</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\StylesPage.xbf">
+      <PackagePath>StylesPage.xbf</PackagePath>
+      <Modified>2015-05-26T02:32:26.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\Transformations.xbf">
+      <PackagePath>Transformations.xbf</PackagePath>
+      <Modified>2015-05-26T02:32:26.446</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\DemoView.xr.xml">
+      <PackagePath>DemoView.xr.xml</PackagePath>
+      <Modified>2015-05-26T08:11:53.012</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-26T02:32:27.771</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

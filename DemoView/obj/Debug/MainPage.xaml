@@ -1,0 +1,63 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:local="using:DemoView"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+      xmlns:Interactivity="using:Microsoft.Xaml.Interactivity" xmlns:Core="using:Microsoft.Xaml.Interactions.Core" x:Class="DemoView.MainPage"
+      mc:Ignorable="d">
+    <Page.Resources>
+    	<Storyboard x:Name="Motion"
+    		Storyboard.TargetName="ellipse" AutoReverse="True" RepeatBehavior="Forever">
+    		<DoubleAnimationUsingKeyFrames Storyboard.TargetName="ellipse" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateX)">
+    			<EasingDoubleKeyFrame KeyTime="0" Value="0" />
+    			<EasingDoubleKeyFrame KeyTime="0:0:1" Value="367.5" />
+    			<EasingDoubleKeyFrame KeyTime="0:0:2" Value="786" />
+    		</DoubleAnimationUsingKeyFrames>
+    		<DoubleAnimationUsingKeyFrames Storyboard.TargetName="ellipse" Storyboard.TargetProperty="(UIElement.RenderTransform).(CompositeTransform.TranslateY)">
+    			<EasingDoubleKeyFrame KeyTime="0" Value="0" />
+    			<EasingDoubleKeyFrame KeyTime="0:0:1" Value="282" />
+    			<EasingDoubleKeyFrame KeyTime="0:0:2" Value="-31.5" />
+    		</DoubleAnimationUsingKeyFrames>
+    	</Storyboard>
+    </Page.Resources>
+    <Page.BottomAppBar>
+        <CommandBar>
+            <AppBarButton x:ConnectionId='1' x:Name="btnBehaviors"
+                                                      
+                          Icon="TwoPage"
+                          Label="Behaviors" />
+            <AppBarButton x:ConnectionId='2' x:Name="btnResources"
+                                                      
+                          Icon="TwoPage"
+                          Label="Resources" />
+            <AppBarButton x:ConnectionId='3' x:Name="btnStyles"
+                                                   
+                          Icon="TwoPage"
+                          Label="Styles" />
+            <AppBarButton x:ConnectionId='4' x:Name="btnTransformations"
+                                                            
+                          Icon="TwoPage"
+                          Label="Transformations" />
+        </CommandBar>
+    </Page.BottomAppBar>
+
+	<Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+		<Ellipse x:ConnectionId='5' x:Name="ellipse"
+			Width="279"
+			Height="282"
+			Margin="125,102,0,0"
+			HorizontalAlignment="Left"
+			VerticalAlignment="Top"
+			Fill="#FFF4F4F5"
+			RenderTransformOrigin="0.5,0.5"
+			Stroke="Black"                        >
+			<Ellipse.RenderTransform>
+				<CompositeTransform />
+			</Ellipse.RenderTransform>
+			
+		</Ellipse>
+
+	</Grid>
+</Page>
+

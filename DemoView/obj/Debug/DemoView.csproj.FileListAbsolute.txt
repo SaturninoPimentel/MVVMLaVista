@@ -1,0 +1,110 @@
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\App.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\Behaviors.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\MainPage.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\Resources.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\StylesPage.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\Transformations.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\DemoView.xr.xml
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\DemoView.exe
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\DemoView.pdb
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\resources.pri
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\AppxManifest.xml
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\DemoView.build.appxrecipe
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\App.g.i.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\App.g.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Behaviors.g.i.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Behaviors.g.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\MainPage.g.i.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\MainPage.g.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Resources.g.i.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Resources.g.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\StylesPage.g.i.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\StylesPage.g.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Transformations.g.i.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Transformations.g.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\App.xaml
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Behaviors.xaml
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\MainPage.xaml
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Resources.xaml
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\StylesPage.xaml
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Transformations.xaml
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\App.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Behaviors.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\MainPage.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Resources.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\StylesPage.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\Transformations.xbf
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\XamlSaveStateFile.xml
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\DemoView.exe
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\DemoView.pdb
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\DemoView.csproj.GenerateResource.Cache
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\priconfig.xml
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\priconfig.xml.intermediate
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\layout.resfiles
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\layout.resfiles.intermediate
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\resources.resfiles
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\resources.resfiles.intermediate
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\pri.resfiles
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\pri.resfiles.intermediate
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\qualifiers.txt
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\qualifiers.txt.intermediate
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\JoseSaturnino\Documents\Visual Studio 2013\Projects\Blog\MVVM\View\DemoView\DemoView\obj\Debug\ProjectArchitectures.txt
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\App.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\Behaviors.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\MainPage.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\Resources.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\StylesPage.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\Transformations.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\DemoView.xr.xml
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\DemoView.exe
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\DemoView.pdb
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\resources.pri
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\AppxManifest.xml
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\DemoView.build.appxrecipe
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\App.g.i.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\App.g.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Behaviors.g.i.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Behaviors.g.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\MainPage.g.i.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\MainPage.g.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Resources.g.i.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Resources.g.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\StylesPage.g.i.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\StylesPage.g.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Transformations.g.i.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Transformations.g.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\App.xaml
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Behaviors.xaml
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\MainPage.xaml
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Resources.xaml
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\StylesPage.xaml
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Transformations.xaml
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\App.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Behaviors.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\MainPage.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Resources.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\StylesPage.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\Transformations.xbf
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\XamlSaveStateFile.xml
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\DemoView.exe
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\DemoView.pdb
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\DemoView.csproj.GenerateResource.Cache
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\priconfig.xml
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\priconfig.xml.intermediate
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\layout.resfiles
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\layout.resfiles.intermediate
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\resources.resfiles
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\resources.resfiles.intermediate
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\pri.resfiles
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\pri.resfiles.intermediate
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\qualifiers.txt
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\qualifiers.txt.intermediate
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\JoseSaturnino\Source\Repos\MVVMLaVista\DemoView\obj\Debug\ProjectArchitectures.txt
